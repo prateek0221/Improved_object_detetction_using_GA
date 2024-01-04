@@ -1,0 +1,29 @@
+names:
+- bag
+- board
+- bottle
+- cap
+- chair
+- clock
+- curtain
+- door
+- fan
+- human
+- human hand
+- laptop
+- mobile
+- mobile phone
+- projector
+- shoes
+- table
+- tube lights
+nc: 18
+roboflow:
+  license: Private
+  project: objects-amkdf
+  url: https://app.roboflow.com/maps-buildtech-and-marketting-llp/objects-amkdf/2
+  version: 2
+  workspace: maps-buildtech-and-marketting-llp
+test: ../test/images
+train: objects-2/train/images
+val: objects-2/valid/images

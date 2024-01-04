@@ -1,0 +1,3 @@
+image_path,x_min,y_min,x_max,y_max,class_label
+path/to/image1.jpg,100,120,300,250,car
+path/to/image2.jpg,50,80,200,280,truck
